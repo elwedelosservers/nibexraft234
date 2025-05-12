@@ -27,7 +27,8 @@
     "criteria": {
       "minecraft:spider": "2025-05-12 09:39:28 +0000",
       "minecraft:zombie": "2025-05-12 11:37:46 +0000",
-      "minecraft:creeper": "2025-05-12 11:37:40 +0000"
+      "minecraft:creeper": "2025-05-12 11:37:40 +0000",
+      "minecraft:drowned": "2025-05-12 23:02:14 +0000"
     },
     "done": false
   },
@@ -268,6 +269,30 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-12 23:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-12 23:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-12 23:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-12 23:09:57 +0000"
     },
     "done": true
   },
